@@ -34,8 +34,9 @@ Research Experience
 
 Awards
 ======
-* Defence Science & Technology Agency Gold Medal (Best Final Year Project Award 2020, Top 1 in the entire cohort).
-* NTU Science and Engineering Scholarship (Full scholarship + stipend for a 4-year undergraduate program).
-* ST engineering book prize (Highest marks in the course: Embedded Systems, 1500SGD cash prize).
-* Motorola book prize (Highest marks in the course: Digital Communications, 300SGD cash prize).
-* In the NTU Dean′s List in Academic Year 2016 - 2017, 2019 - 2020 (Top 5%).
+* Grand Challenge Award (2nd Prize), IEEE Biomedical Circuits and Systems Conference (BioCAS), Oct 2024.
+* Grand Challenge Award (1st Prize), IEEE Biomedical Circuits and Systems Conference (BioCAS), Oct 2023.
+* NTU Research Scholarship, Nanyang Technological University, Singapore, May 2021.
+* Finalist, Dyson & NTU Innovation Challenge, Singapore, Apr 2029.
+* International Region 1st Prize, DJI RoboMaster Competition, Aug 2018.
+* NTU Science and Engineering Undergraduate Scholarship, Nanyang Technological University, Jun 2016.
