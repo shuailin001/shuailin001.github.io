@@ -22,7 +22,7 @@ repository               : "shuailin/shuailin.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profilepict.png"
+  avatar           : "images/profilepict.png"
   name             : "Tao Shuailin"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate, IGP-AI-X, Nanyang Technological University"
