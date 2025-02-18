@@ -1,7 +1,7 @@
 ---
 title: "Convolutional Auto‑Encoder for Variable Length Respiratory Sound Compression and Reconstruction"
 collection: publications
-# category: conferences
+category: conferences
 permalink: /publication/Convolutional-Auto‑Encoder-for-Variable-Length-Respiratory-Sound-Compression-and-Reconstruction
 excerpt: 'Shuailin Tao, Jinhai Hu, Wang Ling Goh, Yuan Gao'
 #date: 2009-10-01

@@ -1,7 +1,7 @@
 ---
 title: "Convolved Self‑Attention Model for IMU‑based Gait Detection and Human Activity Recognition"
 collection: publications
-# category: conferences
+category: conferences
 permalink: /publication/Convolutional-Auto‑Encoder-for-Variable-Length-Respiratory-Sound-Compression-and-Reconstruction
 excerpt: 'Shuailin Tao, Wang Ling Goh, Yuan Gao'
 #date: 2009-10-01
