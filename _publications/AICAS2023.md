@@ -1,11 +1,11 @@
 ---
-title: "Convolutional Auto‑Encoder for Variable Length Respiratory Sound Compression and Reconstruction"
+title: "Convolved Self‑Attention Model for IMU‑based Gait Detection and Human Activity Recognition"
 collection: publications
 category: conferences
 permalink: /publication/Convolutional-Auto‑Encoder-for-Variable-Length-Respiratory-Sound-Compression-and-Reconstruction
-excerpt: 'Shuailin Tao, Jinhai Hu, Wang Ling Goh, Yuan Gao'
+excerpt: 'Shuailin Tao, Wang Ling Goh, Yuan Gao'
 #date: 2009-10-01
-venue: '2024 IEEE Biomedical Circuits and Systems Conference (BioCAS 2024)'
+venue: ' 2024 IEEE Biomedical Circuits and Systems Conference (BioCAS 2024)'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10798320/'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
