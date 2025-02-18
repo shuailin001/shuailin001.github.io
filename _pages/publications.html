@@ -18,5 +18,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-
+{% assign sorted_posts = site.publications | sort: "order" %}
+{% for post in sorted_posts %}
+  {% include archive-single.html %}
+{% endfor %}
 
