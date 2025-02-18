@@ -3,7 +3,7 @@ title: "Convolutional Auto‑Encoder for Variable Length Respiratory Sound Compr
 collection: publications
 category: conferences
 permalink: /publication/Convolutional-Auto‑Encoder-for-Variable-Length-Respiratory-Sound-Compression-and-Reconstruction
-# excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: ''
 #date: 2009-10-01
 venue: ' 2024 IEEE Biomedical Circuits and Systems Conference (BioCAS 2024)'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
