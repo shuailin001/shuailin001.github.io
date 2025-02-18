@@ -8,7 +8,7 @@ date: 2024-10-01
 order: 5
 venue: '2023 IEEE Biomedical Circuits and Systems Conference (BioCAS 2023)'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://ieeexplore.ieee.org/abstract/document/10798320/'
+paperurl: 'https://ieeexplore.ieee.org/document/10389029/'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
