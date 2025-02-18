@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/Squeeze‑Excite-Fusion-Based-Multimodal-Neural-Network-for-Sleep-Stage-Classification-with-Flexible-EEG/ECG-Signal-Acquisition-Circuit
 excerpt: 'Shuailin Tao, Jinhai Hu, Wang Ling Goh, Yuan Gao'
-#date: 2009-10-01
+date: 2024-10-01
 venue: '2024 IEEE International Symposium on Circuits and Systems (ISCAS 2024)'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://ieeexplore.ieee.org/document/10557984/'

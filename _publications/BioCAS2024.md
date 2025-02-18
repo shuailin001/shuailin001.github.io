@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/Convolutional-Auto‑Encoder-for-Variable-Length-Respiratory-Sound-Compression-and-Reconstruction
 excerpt: 'Shuailin Tao, Jinhai Hu, Wang Ling Goh, Yuan Gao'
-#date: 2009-10-01
+date: 2024-10-01
 venue: '2024 IEEE Biomedical Circuits and Systems Conference (BioCAS 2024)'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10798320/'
