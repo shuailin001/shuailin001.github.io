@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/A-Gait-Data-Compression-and-Reconstruction-Framework-for-Edge-Device-using-Low-Dimensional-Attention-Model-with-Autoencoder
 excerpt: 'Shuailin Tao, Wang Ling Goh, Tiancheng Cao, Yuan Gao'
 date: 2024-10-01
-order: 4
+order: 1
 venue: '2024 IEEE International Symposium on Circuits and Systems (ISCAS 2025)'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'Early Accessing'

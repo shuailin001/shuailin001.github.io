@@ -5,7 +5,7 @@ category: conferences  # manuscripts
 permalink: /publication/Convolutional-Auto‑Encoder-for-Variable-Length-Respiratory-Sound-Compression-and-Reconstruction
 excerpt: 'Shuailin Tao, Wang Ling Goh, Yuan Gao'
 date: 2023-10-01
-order: 1
+order: 4
 venue: '2023 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS 2023)'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10168654/'
