@@ -6,7 +6,7 @@ permalink: /publication/Supervised-Contrastive-Learning-Framework-and-Hardware-I
 excerpt: 'Jinhai Hu, Cong Sheng Leow, Shuailin Tao, Wang Ling Goh, Yuan Gao'
 date: 2024-10-01
 order: 6
-venue: '2023 IEEE Biomedical Circuits and Systems Conference (BioCAS 2023)'
+venue: 'IEEE Transactions on Biomedical Circuits and Systems (TBioCAS)'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://ieeexplore.ieee.org/document/10550005/'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'

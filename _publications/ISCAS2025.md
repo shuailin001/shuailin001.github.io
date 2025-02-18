@@ -6,7 +6,7 @@ permalink: /publication/A-Gait-Data-Compression-and-Reconstruction-Framework-for
 excerpt: 'Shuailin Tao, Wang Ling Goh, Tiancheng Cao, Yuan Gao'
 date: 2025-10-01
 order: 1
-venue: '2024 IEEE International Symposium on Circuits and Systems (ISCAS 2025)'
+venue: '2025 IEEE International Symposium on Circuits and Systems (ISCAS 2025)'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'Early Accessing'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'

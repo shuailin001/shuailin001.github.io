@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/Supervised-contrastive-pretrained-ResNet-with-MixUp-to-enhance-respiratory-sound-classification-on-imbalanced-and-limited-dataset
 excerpt: 'Jinhai Hu, Cong Sheng Leow, Shuailin Tao, Wang Ling Goh, Yuan Gao'
-date: 2024-10-01
+date: 2023-10-01
 order: 5
 venue: '2023 IEEE Biomedical Circuits and Systems Conference (BioCAS 2023)'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
