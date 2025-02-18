@@ -13,7 +13,7 @@ title                    : "Tao Shuailin"
 title_separator          : "-"
 name                     : &name "Tao Shuailin"
 description              : &description "Ph.D. Candidate, IGP-AI-X, Nanyang Technological University"
-url                      : https://shuailin001.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://shuailin001.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shuailin/shuailin.github.io"
 
