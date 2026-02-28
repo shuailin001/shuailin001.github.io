@@ -11,7 +11,7 @@ I am a Ph.D. candidate at Nanyang Technological University ([NTU](https://www.nt
 
 Education
 ======
-* Nanyang Technological University (NTU), Singapore.    Aug 2021 - Present
+* Nanyang Technological University (NTU), Singapore.    Aug 2021 - Dec 2025
   * Doctor of Philosophy, Interdisciplinary Graduate Programme, AI‑X
 
 * Nanyang Technological University (NTU), Singapore.    Aug 2017 - Jun 2021
