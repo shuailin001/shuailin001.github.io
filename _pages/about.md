@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I obtained my Ph.D. from Nanyang Technological University ([NTU](https://www.ntu.edu.sg/)) in Singapore. My research lies at the intersection of AI algorithm design, Agentic AI systems, and model optimization. I explore how intelligent agents can reason, plan, and interact with external tools, while maintaining computational efficiency and robustness. My goal is to develop scalable agent frameworks grounded in solid algorithmic foundations. You may find my latest research works [here](/publications).
+I obtained my Ph.D. from Nanyang Technological University ([NTU](https://www.ntu.edu.sg/)) in Singapore. My research focuses on AI algorithm design and optimization, with a particular interest in Agentic AI systems. I explore how large models can be structured into intelligent agents capable of reasoning, planning, and tool interaction, while maintaining computational efficiency and scalability. You may find my latest research works [here](/publications).
 
 Education
 ======
