@@ -22,7 +22,7 @@ Education
 
 Research Experience 
 ======
-* HUAWEI Singapore Research Center
+* Huawei Singapore Research Center
   * AI Research Consultant. Jun 2025 - Present
 * Nanyang Technological University (NTU), Singapore.
   * Research Student (Ph.D). Aug 2021 - May 2025
