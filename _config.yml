@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Tao Shuailin"
-title_separator          : "-"
-name                     : &name "Tao Shuailin"
-description              : &description "AI Research Consultant @ HUAWEI Singapore Research Center"
+title                    : "Shuailin Tao"
+title_separator          : "|"
+name                     : &name "Shuailin Tao"
+description              : &description "Algorithm engineer and NTU PhD working on semantic search, representation learning, and evaluation pipelines for practical AI applications."
 url                      : https://shuailin001.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shuailin/shuailin.github.io"
@@ -23,9 +23,10 @@ repository               : "shuailin/shuailin.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Tao Shuailin"
+  name             : "Shuailin Tao"
   pronouns         : # example: "she/her"  
-  bio              : "AI Research Consultant @ HUAWEI Singapore Research Center"
+  bio              : "Algorithm Engineer | Applied AI & Data Products"
+  job_title        : "Algorithm Engineer"
   location         : "Singapore"
   employer         : # "Red Brick University"
   uri              : # URL

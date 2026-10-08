@@ -1,20 +1,35 @@
 ---
 layout: archive
 title: "Publications"
+seo_title: "Publications | Shuailin Tao"
+description: "Research publications by Shuailin Tao on representation learning, neural compression, multimodal learning, and classification."
+excerpt: "My publications explore representation learning, neural compression, multimodal fusion, and learning from limited or imbalanced data. The applications include physiological signals and human activity data."
 permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">
-    You can also find my articles on 
-    <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.
-  </div>
-{% endif %}
+<p>My publications explore representation learning, neural compression, multimodal fusion, and learning from limited or imbalanced data. The applications include physiological signals and human activity data.</p>
+
+<p>You can also find my publications on <a href="{{ site.author.googlescholar }}">Google Scholar</a>.</p>
 
 {% include base_path %}
-
-{% assign sorted_posts = site.publications | sort: "order" %}
-{% for post in sorted_posts %}
-  {% include archive-single.html %}
+{% assign sorted_publications = site.publications | sort: "order" %}
+{% assign current_year = "" %}
+{% for post in sorted_publications %}
+  {% assign publication_year = post.publication_year | append: "" %}
+  {% if publication_year != current_year %}
+    <h2 class="publication-year">{{ post.publication_year }}</h2>
+    {% assign current_year = publication_year %}
+  {% endif %}
+  <article class="publication-entry">
+    <p class="method-tags">{{ post.method_tags }}</p>
+    <h3 class="publication-entry__title"><a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a></h3>
+    <p class="publication-entry__authors">{{ post.authors | replace: "Shuailin Tao", "<strong>Shuailin Tao</strong>" }}</p>
+    <p class="publication-entry__venue"><i>{{ post.venue }}</i>, {{ post.publication_year }}</p>
+    <p>{{ post.overview }}</p>
+    <div class="publication-links">
+      <a href="{{ base_path }}{{ post.url }}">Details</a>
+      {% if post.paperurl %}<a href="{{ post.paperurl }}">View paper</a>{% endif %}
+    </div>
+  </article>
 {% endfor %}

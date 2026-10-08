@@ -1,15 +1,19 @@
 ---
+layout: publication
 title: "Convolutional Auto‑Encoder for Variable Length Respiratory Sound Compression and Reconstruction"
 collection: publications
 category: conferences
 permalink: /publication/Convolutional-Auto‑Encoder-for-Variable-Length-Respiratory-Sound-Compression-and-Reconstruction
-excerpt: 'Shuailin Tao, Jinhai Hu, Wang Ling Goh, Yuan Gao'
+authors: "Shuailin Tao, Jinhai Hu, Wang Ling Goh, Yuan Gao"
+venue: "2024 IEEE Biomedical Circuits and Systems Conference (BioCAS 2024)"
 date: 2024-10-01
-order: 3
-venue: '2024 IEEE Biomedical Circuits and Systems Conference (BioCAS 2024)'
-# slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://ieeexplore.ieee.org/abstract/document/10798320/'
-# citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+publication_year: 2024
+order: 4
+method_tags: "Autoencoders · Variable-Length Sequences"
+description: "An autoencoder-based approach to compressing and reconstructing variable-length audio sequences, with a composite loss designed to preserve reconstruction quality."
+excerpt: "An autoencoder-based approach to compressing and reconstructing variable-length audio sequences, with a composite loss designed to preserve reconstruction quality. The method was evaluated on respiratory sound recordings in the BioCAS 2024 Grand Challenge."
+overview: "An autoencoder-based approach to compressing and reconstructing variable-length audio sequences, with a composite loss designed to preserve reconstruction quality. The method was evaluated on respiratory sound recordings in the BioCAS 2024 Grand Challenge."
+paperurl: "https://ieeexplore.ieee.org/abstract/document/10798320/"
 ---
 
-This paper presents a respiratory sound compression and reconstruction method based on convolutional Auto-Encoder. By utilizing convolutional and transpose convolutional layers, this model can process variable length sound waveform, which is an important feature for data transmission from edge-based medical devices to cloud server and reconstruct the signal with high fidelity. This work shows that utilizing a non-variational latent space in respiratory sounds compression generates smaller reconstruction error compared to other state-of-art solution. Additionally, this work proposes a new composite loss function to guide the network training. Tested with BioCAS 2024 Grand Challenge dataset, this method achieves a Percent Root Mean Square Difference (PRD) of 0.2230, Correlation Coefficient (CC) of 0.972, and Signal-to-Noise Ratio Loss (SNRL) -0.7129 dB with an average compression rate of 222.
+An autoencoder-based approach to compressing and reconstructing variable-length audio sequences, with a composite loss designed to preserve reconstruction quality. The method was evaluated on respiratory sound recordings in the BioCAS 2024 Grand Challenge.

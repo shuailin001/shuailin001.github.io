@@ -24,13 +24,10 @@ Research Experience
 ======
 * Institute of Microelectronics (IME), Agency for Science, Technology and Research (A*STAR), Singapore. 
   * Research Student (Ph.D). Aug 2021 - Present
-  * Supervisor: [Dr. Gao Yuan](https://www.linkedin.com/in/yuangaocc/?originalSubdomain=sg); [Assoc Prof Goh Wang Ling](https://dr.ntu.edu.sg/cris/rp/rp01105)
 * Nanyang Technological University (NTU), Singapore. 
   * Research Student (Bachelor thesis). Jul 2020 - Jun 2021
-  * Supervisor: [Assoc Prof Cai Yiyu](https://dr.ntu.edu.sg/cris/rp/rp00317)
 * Singapore Institute of Manufacturing Technology (SIMTech), Agency for Science, Technology and Research (A*STAR), Singapore. 
   * Research Intern. Jul 2019 - Dec 2019
-  * Supervisor: [Dr. Zhan Fan Quek](https://www.linkedin.com/in/zhan-fan-quek/?originalSubdomain=sg)
 
 Awards
 ======
