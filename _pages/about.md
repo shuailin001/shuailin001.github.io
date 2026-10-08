@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /
-title: "Applied AI for real-world data"
+title: "About Me"
 seo_title: "Shuailin Tao | Applied AI & Data Products"
 description: "Algorithm engineer and NTU PhD working on semantic search, representation learning, and evaluation pipelines for practical AI applications."
 excerpt: >-
@@ -44,8 +44,7 @@ redirect_from:
   <article class="timeline-entry">
     <h3 class="timeline-entry__title">Huawei Singapore Research Center</h3>
     <p class="entry-context">Singapore</p>
-    <p class="entry-role"><strong>Algorithm Engineer</strong> | May 2026 – Oct 2026</p>
-    <p class="entry-role"><strong>AI Research Consultant</strong> | Jun 2025 – Apr 2026</p>
+    <p class="entry-role"><strong>Algorithm Engineer</strong> | Jun 2025 – Present</p>
     <ul>
       <li>Developed semantic retrieval and query understanding methods for AppGallery using app metadata, pretrained embedding models, and user interaction data.</li>
       <li>Built offline evaluation workflows and investigated retrieval quality through relevance labels, ranking metrics, and error analysis.</li>
